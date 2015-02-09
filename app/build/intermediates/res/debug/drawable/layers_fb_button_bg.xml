@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:drawable="@drawable/button_fb_gb"
+        android:id="@+id/t_bg" />
+    <item
+        android:top="0dp" android:left="3dp">
+        <bitmap
+            android:src="@drawable/icon_facebook"
+            android:gravity="left" />
+    </item>
+</layer-list><!-- From: file:/home/hotyun_a/Документы/MunichOpt/app/src/main/res/drawable/layers_fb_button_bg.xml -->

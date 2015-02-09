@@ -1,0 +1,12 @@
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/classes/debug
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3d0f073690c74eb2a7c0aca41cdbd37630cc4660.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-3472a7b365ce1bab84ab910c6306d23aad1bc1d3.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f49c5c6bef8009086a76142011257a91881c93df.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-c9d84bf1b44020995963c1af0873c8f4f9aaf165.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-16c9a8225a175c495dcdfd41888278650a512750.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-374478506cf13fa9a47b27b629bde7b188b9cfc1.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-61da759fce6620ec458bebbefc0c2202565d9d48.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-d817ab2c37b8e6b458e7aa6d76c735ff854b5c6d.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-78fa86c01e6bed95cf0b9cf69cabb7a120ebb8bd.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-a42a1bccf700f50adf28ab04a973a7464e0db941.jar
+/home/hotyun_a/Документы/MunichOpt/app/build/intermediates/pre-dexed/debug/classes-15f67c85344140ffb04c66c23611c9531c523360.jar

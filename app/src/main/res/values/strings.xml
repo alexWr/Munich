@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Munich</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_like">Favourite</string>
+    <string name="action_calendar">My calendar</string>
+    <string name="action_user_profile">User profile</string>
+    <string name="action_edit">Edit</string>
+    <string name="today">Today</string>
+    <string name="tommorow">Tommorow</string>
+    <string name="interest">My interests:</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">575656002580845</string>
+    <string name="vk_app_id">4630954</string>
+    <string-array name="screen_array">
+        <item>Event list</item>
+        <item>Login</item>
+        <item>User profile</item>
+        <item>My calendar</item>
+        <item>Favourite</item>
+        <item>Exit</item>
+    </string-array>
+    <array name="nav_drawer_icons">
+        <item>@drawable/list_icon</item>
+        <item>@drawable/login_icon</item>
+        <item>@drawable/userprofile_icon</item>
+        <item>@drawable/calendar_icon</item>
+        <item>@drawable/like_icon</item>
+        <item>@drawable/exit_icon</item>
+    </array>
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
